@@ -23,5 +23,10 @@ class Test constructor () {
 
 Log.d("@@@",valI)
     }
+}
 
+enum class DaysWeek {
+    MONDAY,
+    TUESDAY,
+    WEDNESDAY
 }
